@@ -1,0 +1,8 @@
+{
+  "name": "stardew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mconstanza/stardew",
+  "author": "mconstanza <michael.constanza@gmail.com>",
+  "license": "MIT"
+}
