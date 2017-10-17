@@ -12,10 +12,8 @@
     "heroku-postbuild": "cd client && yarn --production=false && yarn run build"
   },
   "dependencies": {
-    "html-webpack-plugin": "^2.30.1",
+    "mongodb": "^2.2.33",
     "path": "^0.12.7",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
     "webpack": "^3.8.0",
     "webpack-dev-server": "^2.9.2"
   },

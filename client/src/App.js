@@ -8,7 +8,7 @@ import ChecklistIndex from './components/ChecklistIndex.jsx';
 export default class App extends React.Component {
   render() {
     return (
-      <div>
+      <div className='App'>
         <Header/>
         <ChecklistIndex/>
         <Footer/>
